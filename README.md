@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/DheerajKumarpal1331/Text-Summarization
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: Dheerajkumar Pal
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: paldheeraj1331@gmail.com
 
 ```
 
